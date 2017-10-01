@@ -119,10 +119,10 @@ ul {
 .new {
         margin-top: 30px;
 	background: white;
-	width:520px;
+	width:250px;
 	
 	font-size: 16px;
-	margin-left: 10px;
+	margin: 10px;
 	padding:30px;
 	color:#777777
 	height:70px;
@@ -256,15 +256,13 @@ p {
 
 	height: 130px;
 }
-
-
 .box {
 
     float: left;
-    width: 250px;
-    height: 150px;
-    border: 3px solid grey;  
-    margin: 15px;
+    width: 160px;
+    height: 80px;
+    border: 2px solid grey;  
+    margin: 20px;
 
 
 }
