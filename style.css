@@ -84,11 +84,6 @@ i:Active {
     font-size: 25px;
 }
 
-.hr2 {
-
-	margin-right: 35px;
-
-}
 
 nav {
 
@@ -119,6 +114,18 @@ ul {
 	margin-top: 50px;
 	margin-right: 300px;
 	text-align: center;
+}
+
+.new {
+
+	background: white;
+	width:500px;
+	height: 278px;
+	font-size: 16px;
+	margin-left: 20px;
+	padding:50px;
+	color:#777777
+	height:70px;
 }
 
 body {
